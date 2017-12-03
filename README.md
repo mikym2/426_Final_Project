@@ -34,13 +34,13 @@ The system will allow the board to send audio data and other optional data such 
 	- Sparkfun Electret Microphone Breakout
 
 ## Tools
-	
-    ### Development
+
+   ### Development
 	- Keil uVision
 	- Android Studio
         - Google Firebase Cloud Service
-	
-    ### Project Management and Communication
+
+   ### Project Management and Communication
 	- Git
 	- Slack
         - Google Drive
