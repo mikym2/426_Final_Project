@@ -36,11 +36,11 @@ The system will allow the board to send audio data and other optional data such 
 ## Tools
 	
     ### Development
-		- Keil uVision
-		- Android Studio
+	- Keil uVision
+	- Android Studio
         - Google Firebase Cloud Service
 	
     ### Project Management and Communication
-		- Git
-		- Slack
+	- Git
+	- Slack
         - Google Drive
