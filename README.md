@@ -28,19 +28,19 @@ The system will allow the board to send audio data and other optional data such 
 	- Bonus: Performs advanced processing such as voice recognition and decision
 
 ## Components
-	- STM43F4 bicsovery board
-	- STM32F401RE Nucleo board
-	- X-NUCLEO-IDB04A1 BLE daughter board
-	- Sparkfun Electret Microphone Breakout
+- STM43F4 bicsovery board
+- STM32F401RE Nucleo board
+- X-NUCLEO-IDB04A1 BLE daughter board
+- Sparkfun Electret Microphone Breakout
 
 ## Tools
 
    ### Development
-	- Keil uVision
-	- Android Studio
-        - Google Firebase Cloud Service
+   - Keil uVision
+   - Android Studio
+   - Google Firebase Cloud Service
 
    ### Project Management and Communication
-	- Git
-	- Slack
-        - Google Drive
+   - Git
+   - Slack
+   - Google Drive
